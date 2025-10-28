@@ -1,7 +1,3 @@
-Sure Vivek 👍 — here’s your customized **README.md** in the exact same clean and aesthetic style you shared:
-
----
-
 # 🌐 Internship Website – TechSpark
 
 ## 🎯 Objective
@@ -64,4 +60,4 @@ An internship project designed to build a **modern, responsive, and visually app
 
 ---
 
-Would you like me to add **badges (HTML/CSS/JS + GitHub Pages)** and a small **preview image** section at the top (for better GitHub presentation)?
+
