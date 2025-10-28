@@ -1,0 +1,16 @@
+body { scroll-behavior: smooth; }
+.hero { height: 100vh; background-size: cover; background-position: center; }
+.hero .container { background: rgba(0, 0, 0, 0.5); padding: 50px; border-radius: 15px; }
+.card:hover { transform: scale(1.03); transition: 0.3s; }
+/* ensure page content doesn't hide under fixed navbar */
+body {
+  padding-top: 72px; /* adjust if your navbar height differs */
+}
+
+/* small responsive tweak: reduce team image size on small screens */
+@media (max-width: 576px) {
+  .card .rounded-circle {
+    width: 110px !important;
+    height: 110px !important;
+  }
+}
